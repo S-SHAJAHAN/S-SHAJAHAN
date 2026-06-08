@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Building+Scalable+Cloud-Native+Solutions)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=S-SHAJAHAN&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/S-SHAJAHAN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shajahan-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shajahan-s-687ab2211)
 [![Email](https://img.shields.io/badge/Email-shajahans0604%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shajahans0604@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=firefox&logoColor=white)](https://S-SHAJAHAN.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=firefox&logoColor=white)](https://shajahans.netlify.app)
 
 </div>
 
