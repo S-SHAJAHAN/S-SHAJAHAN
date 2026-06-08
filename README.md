@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Building+Scalable+Cloud-Native+Solutions)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shajahans0604&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/shajahans0604)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shajahans0604)
+[![Profile Views](https://komarev.com/ghpvc/?username=S-SHAJAHAN&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/S-SHAJAHAN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shajahan-s)
 [![Email](https://img.shields.io/badge/Email-shajahans0604%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shajahans0604@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=firefox&logoColor=white)](https://shajahans0604.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=firefox&logoColor=white)](https://S-SHAJAHAN.github.io)
 
 </div>
 
@@ -139,7 +139,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Shajahan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-SHAJAHAN&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/shajahans0604)
+[![Shajahan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-SHAJAHAN&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/S-SHAJAHAN)
 
 </div>
 
@@ -191,9 +191,9 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | 🌟 Highlights |
 |:-----------|:---------|:-------------|
-| [**Full-Stack Microservices on On-Prem Kubernetes**](https://github.com/shajahans0604) | React · Spring Boot · PostgreSQL · Keycloak · WebSocket · Docker · Kubernetes · NGINX · Prometheus · Grafana | Deployed on self-managed Kubernetes (Proxmox VMs) · OAuth2/OpenID Connect via Keycloak · Real-time WebSocket comms · Migrated Docker Compose → Helm charts · NGINX Ingress + full observability stack |
-| [**Cloud-Native Blog App on AWS EKS with GitOps**](https://github.com/shajahans0604) | GitHub Actions · EKS · Nexus · SonarQube · Trivy · ArgoCD · Prometheus · Grafana | Scalable cloud-native deployment on AWS EKS · Full GitOps CI/CD via GitHub Actions + ArgoCD · Integrated Nexus artifact storage · Automated declarative application delivery to K8s clusters |
-| [**DevOps Monitoring in a Box**](https://github.com/shajahans0604) | Prometheus · Grafana · Alertmanager · Docker · Python | Centralized containerized monitoring solution · Real-time infra & app-level dashboards · Advanced alerting with routing, grouping & suppression via Alertmanager · Minimized alert fatigue across environments |
+| [**Full-Stack Microservices on On-Prem Kubernetes**](https://github.com/S-SHAJAHAN) | React · Spring Boot · PostgreSQL · Keycloak · WebSocket · Docker · Kubernetes · NGINX · Prometheus · Grafana | Deployed on self-managed Kubernetes (Proxmox VMs) · OAuth2/OpenID Connect via Keycloak · Real-time WebSocket comms · Migrated Docker Compose → Helm charts · NGINX Ingress + full observability stack |
+| [**Cloud-Native Blog App on AWS EKS with GitOps**](https://github.com/S-SHAJAHAN) | GitHub Actions · EKS · Nexus · SonarQube · Trivy · ArgoCD · Prometheus · Grafana | Scalable cloud-native deployment on AWS EKS · Full GitOps CI/CD via GitHub Actions + ArgoCD · Integrated Nexus artifact storage · Automated declarative application delivery to K8s clusters |
+| [**DevOps Monitoring in a Box**](https://github.com/S-SHAJAHAN) | Prometheus · Grafana · Alertmanager · Docker · Python | Centralized containerized monitoring solution · Real-time infra & app-level dashboards · Advanced alerting with routing, grouping & suppression via Alertmanager · Minimized alert fatigue across environments |
 
 </div>
 
