@@ -23,7 +23,7 @@ class CloudEngineer:
         self.name        = "Shajahan S"
         self.location    = "Chennai, India 🇮🇳"
         self.degree      = "B.E. Computer Science & Engineering"
-        self.role        = "Cloud Engineer @ Staunch Info Solutions"
+        self.role        = "Devops Engineer @ Staunch Info Solutions"
         self.experience  = "3+ Years"
 
         self.stack = [
