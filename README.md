@@ -18,7 +18,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class CloudEngineer:
+class DevopsEngineer:
     def __init__(self):
         self.name        = "Shajahan S"
         self.location    = "Chennai, India 🇮🇳"
@@ -45,7 +45,7 @@ class CloudEngineer:
     def motto(self):
         return "Automate everything. Monitor everything. Break nothing."
 
-me = CloudEngineer()
+me = DevopsEngineer()
 print(me.motto())
 # Output: Automate everything. Monitor everything. Break nothing.
 ```
