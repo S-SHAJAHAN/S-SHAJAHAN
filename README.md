@@ -158,7 +158,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>Cloud Engineer</strong> — Staunch Info Solutions Pvt. Ltd. &nbsp;|&nbsp; Dec 2022 – Present &nbsp;|&nbsp; Chennai, India</summary>
+<summary>🏢 <strong>Devops Engineer</strong> — Staunch Info Solutions Pvt. Ltd. &nbsp;|&nbsp; Dec 2022 – Present &nbsp;|&nbsp; Chennai, India</summary>
 
 <br/>
 
