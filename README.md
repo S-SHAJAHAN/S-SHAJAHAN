@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAJAHAN%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Devops%20Engineer%20%7C%20DevOps%20Practitioner%20%7C%20Kubernetes%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAJAHAN%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Devops%20Engineer%20%7C%20Kubernetes%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Building+Scalable+Cloud-Native+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Devops+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Building+Scalable+Cloud-Native+Solutions)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=S-SHAJAHAN&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/S-SHAJAHAN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shajahan-s-687ab2211)
