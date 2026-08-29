@@ -1,10 +1,8 @@
 <div align="center">
-
   <!-- Dynamic Typing Header SVG -->
   <a href="https://shajahans.netlify.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%B3+I'm+Shajahan+S;DevOps+%26+Cloud+Platform+Engineer;Building+Reliable+AWS+EKS+%26+GCP+GKE+Clusters;GitOps+Specialist+%E2%80%A2+ArgoCD+%E2%80%A2+Terraform+%E2%80%A2+K8s" alt="Typing Header" />
   </a>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/s-shajahan">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,13 +18,10 @@
     </a>
   </p>
 </div>
-
 <br/>
-
 <!-- Terminal / CLI Aesthetic Card -->
 ```shell
 shajahan@cloud-platform:~$ neofetch --devops-profile
-
   .----------------.    OS          : Linux (Ubuntu / RHEL), Virtualization (Proxmox VE)
   |  AWS  |  GCP   |    Cloud       : Amazon Web Services (EKS, VPC), Google Cloud (GKE, WAF)
   |  EKS  |  GKE   |    Orch/K8s    : Kubernetes, Helm, K9s, NGINX Ingress, Docker
@@ -35,3 +30,130 @@ shajahan@cloud-platform:~$ neofetch --devops-profile
                         Metrics     : Prometheus, Grafana, Cloud Monitoring, CloudWatch
                         Location    : Chennai, Tamil Nadu, India 🇮🇳
                         Status      : ⚡ Building Scalable, Zero-Downtime Infrastructure
+```
+---
+## ⚡ Architecture & Engineering Focus
+```
+ ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
+ │  Infrastructure  │ ---> │     GitOps &     │ ---> │    DevSecOps &   │
+ │     as Code      │      │   CI/CD Pipelines│      │   Observability  │
+ └──────────────────┘      └──────────────────┘      └──────────────────┘
+   • Terraform (AWS/GCP)     • ArgoCD (Pull-based)      • SonarQube & Trivy
+   • VPC / Multi-Region      • GitHub Actions / CI      • Keycloak (OAuth2/OIDC)
+   • EKS / GKE Clusters      • Automated Image Tags     • Prometheus & Grafana
+```
+---
+## 🛠️ Technical Stack & Ecosystem
+### ☁️ Cloud & Virtualization Infrastructure
+`AWS EKS` • `GCP GKE` • `AWS VPC` • `GCP Cloud Armor` • `GCP Cloud CDN` • `GCP Cloud SQL` • `Proxmox VE`
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+</p>
+### 📦 Containers, GitOps & CI/CD Pipelines
+`Docker` • `ArgoCD` • `GitHub Actions` • `Jenkins` • `Sonatype Nexus` • `Artifact Registry` • `Helm` • `K9s`
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX_Ingress-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+### ⚙️ IaC, DevSecOps & Observability
+`Terraform` • `Linux (Bash)` • `Trivy` • `SonarQube` • `Keycloak` • `Prometheus` • `Grafana`
+<p>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy_Security-0052CC?style=flat-square&logo=aquasec&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+---
+## 🏗️ Modern GitOps Workflow (3-to-2 Pipeline Migration)
+> **Architectural Optimization:** Re-engineered legacy push-based 3-pipeline models into a streamlined 2-pipeline declarative GitOps workflow with ArgoCD.
+```
+┌─────────────────┐       ┌─────────────────┐       ┌───────────────────────┐
+│ Frontend CI     │       │ Backend CI      │       │ Kubernetes Git Repo   │
+│ (GitHub Actions)│       │ (GitHub Actions)│       │ (Helm Manifests)      │
+└────────┬────────┘       └────────┬────────┘       └───────────▲───────────┘
+         │                         │                            │
+         ▼                         ▼                            │ (Auto Tag Update)
+    [ Build Image ]           [ Build Image ]                   │
+    [ Security Scan ]         [ Security Scan ] ────────────────┘
+    [ Push Registry ]         [ Push Registry ]
+                                                                │ (Git Sync)
+                                                                ▼
+                                                    ┌───────────────────────┐
+                                                    │ ArgoCD GitOps Engine  │
+                                                    └───────────┬───────────┘
+                                                                │ (Self-Healing Sync)
+                                                                ▼
+                                                    ┌───────────────────────┐
+                                                    │ Target K8s Cluster    │
+                                                    └───────────┴───────────┘
+```
+---
+## 🚀 Featured Infrastructure Projects
+<details open>
+<summary><b>1. Cloud-Native GitOps Blog Platform on AWS EKS</b> <code>AWS EKS</code> <code>ArgoCD</code> <code>SonarQube</code> <code>Trivy</code></summary>
+<br/>
+- **Architecture:** Engineered a scalable, production-grade cloud-native architecture on **AWS EKS** using declarative GitOps delivery with **ArgoCD**.
+- **CI/CD & Security:** Automated CI pipelines with GitHub Actions integrating **SonarQube** static code analysis and **Trivy** container image security scanning before pushing to **Sonatype Nexus**.
+- **Network & Access:** Designed isolated AWS VPC topologies with public/private subnet zoning, NAT gateways, and fine-grained IAM roles for service accounts (IRSA).
+- **Key Highlights:**
+  - Automated continuous reconciliation and self-healing deployments.
+  - Zero raw cluster credentials exposed in CI runners (secure pull-based GitOps).
+</details>
+<details>
+<summary><b>2. Ezbuild Application Deployment on GCP</b> <code>GKE</code> <code>Terraform</code> <code>Cloud Armor</code> <code>Cloud SQL</code></summary>
+<br/>
+- **IaC Provisioning:** Fully automated GKE cluster creation, VPC subnets, and Cloud SQL relational databases using **Terraform**.
+- **Edge Protection & CDN:** Configured **GCP Cloud Armor WAF** policies to protect public endpoints from DDoS attacks and integrated **Cloud CDN** for optimized static asset caching.
+- **Secrets & Monitoring:** Integrated **GCP Secret Manager** for runtime injection of sensitive credentials and built customized alerting thresholds in **GCP Cloud Monitoring**.
+</details>
+<details>
+<summary><b>3. Modern GitOps Pipeline Migration (3-to-2 Workflow)</b> <code>ArgoCD</code> <code>GitHub Actions</code> <code>Kubernetes</code></summary>
+<br/>
+- **Optimization:** Consolidated 3 disconnected pipelines (Frontend CI, Backend CI, K8s CD) into 2 clean CI pipelines that update K8s manifest repositories upon image push.
+- **Results:**
+  - **35% reduction** in CI build queue overhead.
+  - Enabled **1-click instant rollbacks** using `git revert` on the manifest repo.
+  - Eliminated manual deployment triggers and configuration drift.
+</details>
+<details>
+<summary><b>4. Multi-Tier Microservices Platform on On-Premises Kubernetes</b> <code>Proxmox VE</code> <code>Keycloak</code> <code>Prometheus</code> <code>Grafana</code></summary>
+<br/>
+- **Bare-Metal / Virtualized:** Deployed a resilient self-hosted Kubernetes cluster across high-performance **Proxmox VE** virtual machines.
+- **Identity & Routing:** Configured **Keycloak (OAuth2 / OIDC)** for unified enterprise identity access management and **NGINX Ingress** with WebSocket support.
+- **Observability:** Built custom **Prometheus** metrics exporters and real-time dashboard visualizations in **Grafana** for node/pod resource tracking.
+</details>
+---
+## 📈 GitHub Metrics & Analytics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=S-SHAJAHAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-SHAJAHAN&layout=compact&theme=tokyonight&hide_border=true" width="410" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-SHAJAHAN&theme=tokyonight&hide_border=true" width="825" alt="GitHub Streak" />
+</div>
+---
+<div align="center">
+  ### 🤝 Let's Connect & Collaborate!
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Shajahan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-shajahan)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=netlify)](https://shajahans.netlify.app)
+  [![Email](https://img.shields.io/badge/Email-Send_Direct_Mail-D14836?style=for-the-badge&logo=gmail)](mailto:shajahans0604@gmail.com)
+  <br/>
+  <sub>Designed with ⚡ by <b>Shajahan S</b> • DevOps & Cloud Platform Engineer</sub>
+</div>
